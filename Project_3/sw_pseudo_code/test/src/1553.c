@@ -6,7 +6,7 @@
 void brmBCexample(void)
 
 {
-
+//skdfisuhfisuhoidussfsdf
 	 u16 data16;
 
 	 print("Simple BC transmission\n\n\r");
